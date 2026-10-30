@@ -10,8 +10,6 @@ Assim vamos rodar o ansible sempre:
     ./venv/bin/ansible-galaxy install -r requirements.yml --force
     ./venv/bin/ansible-playbook playbooks/dev/drupal.yml
 
-
-
 ## Preparação do ambiente
 
 Instale na sua distro: vagrant
